@@ -1,6 +1,3 @@
-Claro, aqui está o texto reformulado em Markdown:
-
-```markdown
 # :wave: Fundamentos do GitHub 
 
 ## 🤓 Visão geral do curso e objetivos de aprendizado 
