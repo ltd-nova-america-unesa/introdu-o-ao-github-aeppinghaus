@@ -46,9 +46,6 @@ Para saber mais sobre branches, leia ["Sobre Branches"](https://docs.github.com/
 Um fork é outra maneira de copiar um repositório, mas geralmente é usado quando você deseja contribuir para o projeto de outra pessoa. Fazer um fork de um repositório permite que você experimente livremente com alterações sem afetar o projeto original e é muito popular ao contribuir para projetos de software de código aberto!
 Para saber mais sobre forks, leia ["Fazer um fork de um repositório"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-Aqui está o texto traduzido em Markdown:
-
-```markdown
 ### Solicitações de pull
 Ao trabalhar com branches, você pode usar uma solicitação de pull para informar aos outros sobre as alterações que deseja fazer e solicitar feedback. Uma vez que uma solicitação de pull é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar mais alterações, se necessário. Você pode adicionar pessoas específicas como revisores da sua solicitação de pull, o que mostra que você quer o feedback delas sobre suas alterações! Uma vez que uma solicitação de pull está pronta para ser concluída, ela pode ser mesclada no seu branch principal.
 Para saber mais sobre solicitações de pull, leia ["Sobre Solicitações de Pull"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
